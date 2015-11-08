@@ -4,3 +4,4 @@
 * From: **The UK**
 * Favourite Food: **Pizza**
 * A hobby: **Programming**
+* Favourite Colour: **rebeccapurple**
